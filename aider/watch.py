@@ -29,6 +29,7 @@ def is_source_file(path: Path) -> bool:
         ".yml",
         # // style comments
         ".js",
+        ".gml",
         ".ts",
         ".jsx",
         ".tsx",
